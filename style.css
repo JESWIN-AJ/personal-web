@@ -1,0 +1,7 @@
+.bady{
+    background: rgb(0,0,6);
+    background: linear-gradient(90deg, rgba(0,0,6,1) 6%, rgba(0,0,4,1) 13%, rgba(0,0,2,1) 39%, rgba(25,25,88,1) 66%, rgb(41, 75, 82) 95%);
+}
+.navbar-toggler{
+    background-color: aliceblue;
+}
